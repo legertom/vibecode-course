@@ -1,0 +1,9 @@
+# Local Claude Code settings (per-machine, not shared)
+.claude/settings.local.json
+
+# OS noise
+.DS_Store
+
+# Node (in case the course app or experiments are built in-place)
+node_modules/
+.next/

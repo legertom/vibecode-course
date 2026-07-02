@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "course": "todo-app-course",
+  "status": "not_started",
+  "current": { "module": 1, "lesson": 1 },
+  "completed": [],
+  "badges": [],
+  "history": [],
+  "settings": { "mode": null, "hints_used": 0, "started_at": null, "last_seen_at": null }
+}
